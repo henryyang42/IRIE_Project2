@@ -11,7 +11,7 @@ for p in properties:
         else:
             F += 1
 
-    print ('%-10s, T=%4d, F=%4d, acc=%f' % (p, T, F, 1.0*T/(T+F)))
+    print ('%s, T=%d, F=%d, acc=%f' % (p, T, F, 1.0*T/(T+F)))
     TT += T
     FF += F
 print ('T=%d, F=%d, acc=%f' % (TT, FF, 1.0*TT/(TT+FF)))

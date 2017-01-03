@@ -585,7 +585,7 @@ Id,Entity_1,Entity_2,Property
 584,雅典娜,赫尔墨斯,sibling
 585,贝蒂·米勒,火奴鲁鲁,birthPlace
 586,小井土正亮,岐阜县,birthPlace
-587,汤马士·古斯锡,克洛斯诺·奥德尔赞斯基,birthPlace
+587,汤马士·古斯锡,克洛斯诺-奥德尔赞斯基,birthPlace
 588,本山茂辰,本山茂直,child
 589,徐怀谦,北京市,deathPlace
 590,斋藤克幸,福岛县,birthPlace
@@ -704,11 +704,11 @@ Id,Entity_1,Entity_2,Property
 703,苏翊杰,基隆市,birthPlace
 704,田假,田间,sibling
 705,岩渊功,日本,birthPlace
-706,塞西莉亚·佩恩·加波施金,哈佛大学,workPlace
+706,塞西莉亚·佩恩-加波施金,哈佛大学,workPlace
 707,杰弗里·霍尔,布兰代斯大学,workPlace
 708,和硕恪纯长公主,韬塞,sibling
 709,鬷声姬,齐灵公,spouse
-710,让·皮埃尔·帕潘,滨海布洛涅,birthPlace
+710,让-皮埃尔·帕潘,滨海布洛涅,birthPlace
 711,拉美西斯二世,图雅,parent
 712,施维奴·荷西·简鲁图,圣保罗,birthPlace
 713,地下浩多,香港,birthPlace
@@ -728,7 +728,7 @@ Id,Entity_1,Entity_2,Property
 727,少卫姬,齐桓公,spouse
 728,黎龙铤,黎大行,parent
 729,约翰·葛林,美国,birthPlace
-730,让·巴蒂斯特·拉马克,法国科学院,workPlace
+730,让-巴蒂斯特·拉马克,法国科学院,workPlace
 731,乔治·梅瑞狄斯,朴茨茅斯,birthPlace
 732,敬归,鲁襄公,spouse
 733,松平赖恭,松平赖寛,sibling
@@ -775,7 +775,7 @@ Id,Entity_1,Entity_2,Property
 774,卢克·里德诺,多蓝市,birthPlace
 775,岸奥裕二,北海道,birthPlace
 776,李俊一,平壤,birthPlace
-777,雅赫摩斯·纳菲尔泰丽,雅赫摩斯一世,spouse
+777,雅赫摩斯-纳菲尔泰丽,雅赫摩斯一世,spouse
 778,潘清简,潘清荪,child
 779,大谷秀和,日本,birthPlace
 780,费信惇,上海,deathPlace
@@ -830,7 +830,7 @@ Id,Entity_1,Entity_2,Property
 829,长田道泰,日本,birthPlace
 830,李毅凯,香港,birthPlace
 831,埃德温·克雷布斯,西雅图华盛顿大学,workPlace
-832,雅赫摩斯·纳菲尔泰丽,卢克索,birthPlace
+832,雅赫摩斯-纳菲尔泰丽,卢克索,birthPlace
 833,普罗斯佩·梅里美,康城,deathPlace
 834,梁能仁,香港,birthPlace
 835,武藤真一,宫城县,birthPlace
@@ -1044,7 +1044,7 @@ Id,Entity_1,Entity_2,Property
 1043,纟川英夫,东京帝国大学,workPlace
 1044,新平公主,裴彷,child
 1045,范志毅,上海,birthPlace
-1046,尤利乌斯·普吕克,哈雷·维滕贝格大学,workPlace
+1046,尤利乌斯·普吕克,哈雷-维滕贝格大学,workPlace
 1047,酒井忠次,松平久恒,child
 1048,常仁法亲王,大彻文亨,sibling
 1049,章文琪,中国,birthPlace
@@ -1277,7 +1277,7 @@ Id,Entity_1,Entity_2,Property
 1276,唐应恩,唐明熙,child
 1277,马里奥·卡佩奇,犹他大学,workPlace
 1278,玛丽·安托瓦内特,玛丽亚·特蕾西亚,parent
-1279,让·皮埃尔·帕潘,法国,birthPlace
+1279,让-皮埃尔·帕潘,法国,birthPlace
 1280,锺路得,葛培理,spouse
 1281,圣书体,世俗体,child
 1282,路易斯·佩奇,普伦顿,deathPlace
@@ -1564,7 +1564,7 @@ Id,Entity_1,Entity_2,Property
 1563,加布里瓦·法罗皮奥,帕多瓦,deathPlace
 1564,马库斯·奥尔巴克,哥德堡,birthPlace
 1565,约翰·巴丁,贝尔实验室,workPlace
-1566,夏尔·马提亚·西蒙斯,卢森堡市,deathPlace
+1566,夏尔-马提亚·西蒙斯,卢森堡市,deathPlace
 1567,迪文·唐森德,加拿大,birthPlace
 1568,下村宏,日本,deathPlace
 1569,珍·西摩,约翰·西摩,parent
@@ -1614,7 +1614,7 @@ Id,Entity_1,Entity_2,Property
 1613,鸨田正宪,日本,birthPlace
 1614,梶野智幸,爱知县,birthPlace
 1615,井上公平,日本,birthPlace
-1616,格奥尔格·康托尔,哈雷·维滕贝格大学,workPlace
+1616,格奥尔格·康托尔,哈雷-维滕贝格大学,workPlace
 1617,雷腾龙,中国,birthPlace
 1618,丹阳公主,薛万彻,spouse
 1619,方召麐,方津生,child
@@ -1969,7 +1969,7 @@ Id,Entity_1,Entity_2,Property
 1968,崔真喆,韩国,birthPlace
 1969,辻勇,日本,birthPlace
 1970,爱德华三世,法兰西的伊莎贝拉,parent
-1971,雅赫摩斯·纳菲尔泰丽,西塔蒙,child
+1971,雅赫摩斯-纳菲尔泰丽,西塔蒙,child
 1972,无着,印度,birthPlace
 1973,李贵鲜,营口,birthPlace
 1974,古斯塔夫·鲍尔,达尔克门,birthPlace
@@ -1985,7 +1985,7 @@ Id,Entity_1,Entity_2,Property
 1984,拉玛七世,绍瓦蓬王太后,parent
 1985,河村优,静冈县,birthPlace
 1986,和硕恪纯长公主,吴应熊,spouse
-1987,莫里斯·布尔热·莫努里,巴黎,deathPlace
+1987,莫里斯·布尔热-莫努里,巴黎,deathPlace
 1988,东直己,北海道,birthPlace
 1989,朱裕壁,李佩文,spouse
 1990,坪田和美,日本,birthPlace
@@ -2046,7 +2046,7 @@ Id,Entity_1,Entity_2,Property
 2045,魏武子,魏颗,child
 2046,新马师曾,梁添添,spouse
 2047,约瑟夫·贝克,波兰,birthPlace
-2048,让·阿兰·布姆松,喀麦隆,birthPlace
+2048,让-阿兰·布姆松,喀麦隆,birthPlace
 2049,乔治·伽莫夫,哥廷根大学,workPlace
 2050,雅克·路易·朗东,日内瓦,deathPlace
 2051,黄炎培,姚维钧,spouse
@@ -2180,7 +2180,7 @@ Id,Entity_1,Entity_2,Property
 2179,阿奴律陀,爱嘎玛黑蒂,spouse
 2180,杜雯惠,陈锦鸿,spouse
 2181,米山智,日本,birthPlace
-2182,克雷芒十四世,圣阿尔坎杰洛·迪罗马涅,birthPlace
+2182,克雷芒十四世,圣阿尔坎杰洛-迪罗马涅,birthPlace
 2183,霍英东,霍震霆,child
 2184,罗伯特·鲁宾逊,曼彻斯特大学,workPlace
 2185,郑松,郑桧,sibling
@@ -2712,7 +2712,7 @@ Id,Entity_1,Entity_2,Property
 2711,李哲民,朝鲜,birthPlace
 2712,耶律撒葛只,萧末,spouse
 2713,细so,陈颖楠,spouse
-2714,艾蕾诺尔·冯·哈布斯堡,法兰西丝卡·提森·博内米萨,parent
+2714,艾蕾诺尔·冯·哈布斯堡,法兰西丝卡·提森-博内米萨,parent
 2715,濑川诚,日本,birthPlace
 2716,赵国庄懿公主,田绪,spouse
 2717,石井正忠,日本,birthPlace
@@ -2828,7 +2828,7 @@ Id,Entity_1,Entity_2,Property
 2827,清太祖皇六女,巴布海,sibling
 2828,罗伯特·威廉·本生,海德堡大学,workPlace
 2829,雷内·里卡德,纽约城,deathPlace
-2830,鲍耶·亚诺什,克卢日·纳波卡,birthPlace
+2830,鲍耶·亚诺什,克卢日-纳波卡,birthPlace
 2831,阮福静和,阮福贞慎,sibling
 2832,周毅,上海,birthPlace
 2833,高田哲也,广岛县,birthPlace
@@ -2908,7 +2908,7 @@ Id,Entity_1,Entity_2,Property
 2907,阿佛洛狄忒,癸干忒斯,sibling
 2908,田纪云,李英华,spouse
 2909,约泽夫·波尼亚托夫斯基,特蕾莎·金斯基,parent
-2910,雅赫摩斯一世,雅赫摩斯·纳菲尔泰丽,spouse
+2910,雅赫摩斯一世,雅赫摩斯-纳菲尔泰丽,spouse
 2911,陈庆荣,香港,birthPlace
 2912,饭田紘孝,东京都,birthPlace
 2913,教宗西西诺,罗马市,deathPlace
@@ -3039,7 +3039,7 @@ Id,Entity_1,Entity_2,Property
 3038,何明站,台湾,birthPlace
 3039,奥斯卡·卡尔·威廉,拿骚的索菲亚,parent
 3040,角野荣子,东京,birthPlace
-3041,阿尔伯特亲王,萨克森·哥达·阿尔滕堡路易丝郡主,parent
+3041,阿尔伯特亲王,萨克森-哥达-阿尔滕堡路易丝郡主,parent
 3042,加纳孝,县,birthPlace
 3043,高淑妃,隆庆公主,child
 3044,达里乌斯·杜德卡,奥得河畔科斯琴,birthPlace
@@ -3056,7 +3056,7 @@ Id,Entity_1,Entity_2,Property
 3055,敦肃皇贵妃,年述尧,sibling
 3056,雷·琼斯,英格兰,deathPlace
 3057,热罗姆·罗滕,法国,birthPlace
-3058,道格拉斯·恩格尔巴特,麦克唐纳·道格拉斯公司,workPlace
+3058,道格拉斯·恩格尔巴特,麦克唐纳-道格拉斯公司,workPlace
 3059,周明增,蔡珮纶,spouse
 3060,柳原爱子,大正天皇,child
 3061,卡尔十六世·古斯塔夫,古斯塔夫·阿道夫亲王,parent
@@ -3287,7 +3287,7 @@ Id,Entity_1,Entity_2,Property
 3286,香川幸,广岛县,birthPlace
 3287,福因寺,达里克庙,child
 3288,竹市雅俊,大日本帝国,birthPlace
-3289,叶卡捷琳娜二世,霍尔斯坦·戈托普,parent
+3289,叶卡捷琳娜二世,霍尔斯坦-戈托普,parent
 3290,亚历山大大帝,罗克珊娜,spouse
 3291,肖建佳,梅州,birthPlace
 3292,生濑胜久,堀本阳子,spouse
@@ -3354,7 +3354,7 @@ Id,Entity_1,Entity_2,Property
 3353,长谷川祥之,日本,birthPlace
 3354,罗伯特·鲁宾逊,雪梨大学,workPlace
 3355,李家诚,徐子淇,spouse
-3356,恰卡,夸祖鲁·纳塔尔省,deathPlace
+3356,恰卡,夸祖鲁-纳塔尔省,deathPlace
 3357,八田卯一郎,日本,birthPlace
 3358,公辨法亲王,八条宫尚仁亲王,sibling
 3359,得墨忒耳,普图鲁斯,child
@@ -3505,7 +3505,7 @@ Id,Entity_1,Entity_2,Property
 3504,李愬,临潭,birthPlace
 3505,江淹,南朝宋,birthPlace
 3506,沘阳公主,窦宪,child
-3507,让·马里·达约,北部湾,deathPlace
+3507,让-马里·达约,北部湾,deathPlace
 3508,庐江公主,褚澄,spouse
 3509,苏俊贤,香港,birthPlace
 3510,文庆男,朝鲜,birthPlace
@@ -3552,7 +3552,7 @@ Id,Entity_1,Entity_2,Property
 3551,欧嘉·尼古拉耶芙娜,亚历山德拉·费奥多萝芙娜,parent
 3552,伦子女王,室子女王,sibling
 3553,朝鲜肃宗,明善公主,sibling
-3554,让·马克·方丹,巴黎第十一大学,workPlace
+3554,让-马克·方丹,巴黎第十一大学,workPlace
 3555,陈丽华,迟重瑞,spouse
 3556,恭肃皇贵妃,崇绮,sibling
 3557,八重樫茂生,日本,birthPlace
@@ -3719,7 +3719,7 @@ Id,Entity_1,Entity_2,Property
 3718,旭烈兀,唆鲁禾帖尼,parent
 3719,帕维尔·马雷什,捷克,birthPlace
 3720,约书亚·雷诺兹,普林普顿,birthPlace
-3721,阿道夫·弗雷德里克,阿尔贝蒂娜·弗雷德里卡（巴登·杜拉赫）,parent
+3721,阿道夫·弗雷德里克,阿尔贝蒂娜·弗雷德里卡（巴登-杜拉赫）,parent
 3722,阮福源,莫氏佳,spouse
 3723,岛津忠恒,鎌田政胜,child
 3724,赵元僖,邠国大长公主,sibling
@@ -3871,7 +3871,7 @@ Id,Entity_1,Entity_2,Property
 3870,贾维尔·麦基,密西根州,birthPlace
 3871,唐明治,邓莲如,spouse
 3872,阮福暘,阮岳,spouse
-3873,阿蒙霍特普一世,雅赫摩斯·纳菲尔泰丽,parent
+3873,阿蒙霍特普一世,雅赫摩斯-纳菲尔泰丽,parent
 3874,尧尊法亲王,宽钦法亲王,sibling
 3875,爱赫特波一世,特提舍丽,parent
 3876,吴香伦,吴殷志,parent
@@ -3892,7 +3892,7 @@ Id,Entity_1,Entity_2,Property
 3891,山缪·谢维扬,纽约,birthPlace
 3892,佃贤典,日本,birthPlace
 3893,韩说,韩兴,child
-3894,雅赫摩斯·纳菲尔泰丽,雅赫摩斯·美里塔蒙,child
+3894,雅赫摩斯-纳菲尔泰丽,雅赫摩斯-美里塔蒙,child
 3895,礒田由和,京都府,birthPlace
 3896,中原礼,东京都,birthPlace
 3897,常高院,崇源院,sibling
@@ -4319,7 +4319,7 @@ Id,Entity_1,Entity_2,Property
 4318,苏坦·高华斯,布达佩斯,birthPlace
 4319,宋绮云,徐林侠,spouse
 4320,乔治·博阿滕,恩考考,birthPlace
-4321,阿尔伯特·弗雷德里希·弗来·威士林,苏黎世联邦理工学院,workPlace
+4321,阿尔伯特·弗雷德里希·弗来-威士林,苏黎世联邦理工学院,workPlace
 4322,汤·史顿,美国,birthPlace
 4323,吕旃蒙,湖南,birthPlace
 4324,玛丽·蕾捷斯卡,路易十五,spouse
@@ -4438,7 +4438,7 @@ Id,Entity_1,Entity_2,Property
 4437,大卫·沙逊,浦那,deathPlace
 4438,土居义典,德岛县,birthPlace
 4439,朴正熙,陆英修,spouse
-4440,马克·维维安·福,法国,deathPlace
+4440,马克-维维安·福,法国,deathPlace
 4441,曹昂,曹植,sibling
 4442,莱娜·瑟德贝里,瑞典,birthPlace
 4443,洛伦佐·因西涅,那不勒斯,birthPlace
@@ -4595,7 +4595,7 @@ Id,Entity_1,Entity_2,Property
 4594,纯元王后,德温公主,child
 4595,高奣映,高映厚,child
 4596,威姆·基夫,荷兰,birthPlace
-4597,腓特烈·威廉三世,黑森·达姆施塔特,parent
+4597,腓特烈·威廉三世,黑森-达姆施塔特,parent
 4598,武田洋平,日本,birthPlace
 4599,川西武彦,广岛县,birthPlace
 4600,本多猪四郎,本多きみ,spouse
@@ -4806,7 +4806,7 @@ Id,Entity_1,Entity_2,Property
 4805,丹瑞,英属缅甸,birthPlace
 4806,大卫·阿兰帕严,巴库,birthPlace
 4807,穆罕默德·科达班达,波斯,birthPlace
-4808,克里斯汀·纽斯林·沃尔哈德,欧洲分子生物学实验室,workPlace
+4808,克里斯汀·纽斯林-沃尔哈德,欧洲分子生物学实验室,workPlace
 4809,查理大帝,丕平,parent
 4810,石塚启次,日本,birthPlace
 4811,源义仲,宫菊姬,sibling
@@ -4934,7 +4934,7 @@ Id,Entity_1,Entity_2,Property
 4933,耶律泰哥,耶律八哥,sibling
 4934,萨福克公爵夫人约克的伊丽莎白,约克公爵夫人塞西莉·内维尔,parent
 4935,黄宗羲,黄百药,child
-4936,贾斯帕·古斯塔夫·科里奥利,巴黎综合理工学院,workPlace
+4936,贾斯帕-古斯塔夫·科里奥利,巴黎综合理工学院,workPlace
 4937,加巴·拿禾,卡杜纳,birthPlace
 4938,薛西斯一世,阿托莎,parent
 4939,保连奴,巴西,birthPlace
@@ -4960,7 +4960,7 @@ Id,Entity_1,Entity_2,Property
 4959,尊真法亲王,寿子女王,sibling
 4960,黄宗羲,黄百家,child
 4961,高松大树,日本,birthPlace
-4962,费迪南·冯·哈布斯堡,法兰西丝卡·提森·博内米萨,parent
+4962,费迪南·冯·哈布斯堡,法兰西丝卡·提森-博内米萨,parent
 4963,华美,好好,child
 4964,赖慕布,清太祖皇七女,sibling
 4965,魏文侯,魏桓子,parent
@@ -4988,7 +4988,7 @@ Id,Entity_1,Entity_2,Property
 4987,宫泽浩,北海道,birthPlace
 4988,向元贞,尚泰,child
 4989,浅井亮政,近江之方,child
-4990,让·保罗·恩德基,喀麦隆,birthPlace
+4990,让-保罗·恩德基,喀麦隆,birthPlace
 4991,加云·麦肯,黑池,birthPlace
 4992,孟任,鲁庄公,spouse
 4993,奕臣·杜斯·山度士·卡度素,圣保罗,birthPlace
@@ -5015,7 +5015,7 @@ Id,Entity_1,Entity_2,Property
 5014,隆裕太后,静荣,sibling
 5015,赤都松赞,没庐妃赤玛类,parent
 5016,孙巍,天津,birthPlace
-5017,奇云·派斯·保定,西柏林,birthPlace
+5017,奇云-派斯·保定,西柏林,birthPlace
 5018,孝明天皇,明治天皇,child
 5019,黄洋达,陈秀慧,spouse
 5020,苏绍智,北平,birthPlace
@@ -5121,7 +5121,7 @@ Id,Entity_1,Entity_2,Property
 5120,唐孝威,浙江大学,workPlace
 5121,金昌洙,釜山广域市,birthPlace
 5122,马高斯·保罗,巴西,birthPlace
-5123,卡尔·冯·哈布斯堡,萨克森·迈宁根,parent
+5123,卡尔·冯·哈布斯堡,萨克森-迈宁根,parent
 5124,芒松芒赞,杜松芒波杰,child
 5125,秋瑾,王桂芬,child
 5126,梁中昀,英属香港,birthPlace
@@ -5181,7 +5181,7 @@ Id,Entity_1,Entity_2,Property
 5180,陈国维,台湾,birthPlace
 5181,松丸贞一,东京,birthPlace
 5182,汪佳捷,上海,birthPlace
-5183,古斯塔夫二世·阿道夫,荷尔斯泰因·戈托普的克里斯蒂娜,parent
+5183,古斯塔夫二世·阿道夫,荷尔斯泰因-戈托普的克里斯蒂娜,parent
 5184,罗慕路斯与雷穆斯,玛尔斯,parent
 5185,回鹘字母,蒙古字母,child
 5186,约瑟·尤保,科诺,birthPlace
@@ -5222,7 +5222,7 @@ Id,Entity_1,Entity_2,Property
 5221,雅典娜,米诺斯,sibling
 5222,周信芳,周少麟,child
 5223,孝圣宪皇后,雍正帝,spouse
-5224,雅赫摩斯·纳菲尔泰丽,陶二世,parent
+5224,雅赫摩斯-纳菲尔泰丽,陶二世,parent
 5225,陈明文,廖素惠,spouse
 5226,织田信忠,织田秀子,sibling
 5227,大石玲,日本,birthPlace
@@ -5318,7 +5318,7 @@ Id,Entity_1,Entity_2,Property
 5317,狐季姬,狐偃,sibling
 5318,横山贵之,高知县,birthPlace
 5319,笠臣·邦迪,圣保罗,birthPlace
-5320,乔治·威廉王子,勃兰登堡·安斯巴赫的卡罗琳,parent
+5320,乔治·威廉王子,勃兰登堡-安斯巴赫的卡罗琳,parent
 5321,横谷繁,日本,birthPlace
 5322,吴启华,石扬子,spouse
 5323,佐佐木仁,日本,birthPlace
@@ -5344,7 +5344,7 @@ Id,Entity_1,Entity_2,Property
 5343,约翰·考克饶夫,澳洲国立大学,workPlace
 5344,周美青,马唯中,child
 5345,丰干,国清寺,workPlace
-5346,玛丽·泰瑞丝,路易十六,parent
+5346,玛丽-泰瑞丝,路易十六,parent
 5347,赫柏,宙斯,parent
 5348,敬一丹,王梓木,spouse
 5349,山野孝义,日本,birthPlace
@@ -5430,7 +5430,7 @@ Id,Entity_1,Entity_2,Property
 5429,益川敏英,名古屋大学,workPlace
 5430,许世楷,卢千惠,spouse
 5431,普劳图斯,萨尔西纳,birthPlace
-5432,雅赫摩斯·纳菲尔泰丽,西阿蒙王子,child
+5432,雅赫摩斯-纳菲尔泰丽,西阿蒙王子,child
 5433,真殿益藏,日本,birthPlace
 5434,苏茜·沃尔夫,奥本,birthPlace
 5435,李陵,且鞮侯单于,spouse
@@ -5587,7 +5587,7 @@ Id,Entity_1,Entity_2,Property
 5586,山本健二,山梨县,birthPlace
 5587,季子,齐丁公,parent
 5588,松丸友纪,新田康仁,spouse
-5589,克劳德·路易·纳维,国立桥路学校,workPlace
+5589,克劳德-路易·纳维,国立桥路学校,workPlace
 5590,明命帝,陈氏璫,parent
 5591,清泷信宏,日本,birthPlace
 5592,松原浩树,京都府,birthPlace
@@ -5736,7 +5736,7 @@ Id,Entity_1,Entity_2,Property
 5735,李福荣,香港,birthPlace
 5736,彼得·希格斯,爱丁堡大学,workPlace
 5737,道仁法亲王,美严院,sibling
-5738,玛丽·泰瑞丝,玛丽·安托瓦内特,parent
+5738,玛丽-泰瑞丝,玛丽·安托瓦内特,parent
 5739,彭华英,蔡阿信,spouse
 5740,习仲勋,习富平,child
 5741,卡摩斯,爱赫特波一世,parent
@@ -5966,7 +5966,7 @@ Id,Entity_1,Entity_2,Property
 5965,憨山德清,全椒,birthPlace
 5966,内田哲兵,大坂府,birthPlace
 5967,李昊祯,河南,birthPlace
-5968,让·皮埃尔·塞尔,法国国家科学研究中心,workPlace
+5968,让-皮埃尔·塞尔,法国国家科学研究中心,workPlace
 5969,金琴一,平壤,birthPlace
 5970,克雷芒八世,罗马,deathPlace
 5971,罗慕路斯与雷穆斯,雷亚·西尔维亚,parent
@@ -5998,7 +5998,7 @@ Id,Entity_1,Entity_2,Property
 5997,克莱奥,巴西,birthPlace
 5998,松桥力藏,东京都,birthPlace
 5999,藤岛信雄,日本,birthPlace
-6000,西尔万·埃班克斯·布莱克,剑桥,birthPlace
+6000,西尔万·埃班克斯-布莱克,剑桥,birthPlace
 6001,陈世九,香港,birthPlace
 6002,后藤圭二,门之园惠美,spouse
 6003,阿希尔·埃马纳,雅温得,birthPlace
@@ -6155,7 +6155,7 @@ Id,Entity_1,Entity_2,Property
 6154,李国宝,潘金翠,spouse
 6155,松平赖寿,松平赖聪,parent
 6156,李仁宗,倚兰,parent
-6157,阿卜杜拉·本·阿卜杜勒·阿齐兹·阿勒沙特,法赫达,parent
+6157,阿卜杜拉·本·阿卜杜勒-阿齐兹·阿勒沙特,法赫达,parent
 6158,高本词史,日本,birthPlace
 6159,阿部正敏,内藤正兴,child
 6160,计亮年,上海市,birthPlace
@@ -6419,7 +6419,7 @@ Id,Entity_1,Entity_2,Property
 6418,二条为子,二条为道,sibling
 6419,冲宗敏彦,广岛县,birthPlace
 6420,高桥真一郎,日本,birthPlace
-6421,拉美西斯三世,泰伊·美仁尼斯,parent
+6421,拉美西斯三世,泰伊-美仁尼斯,parent
 6422,迪·布朗,杰克逊,birthPlace
 6423,祖素,巴西,birthPlace
 6424,史蒂芬·辛诺夫斯基,纽约市,birthPlace
@@ -6569,7 +6569,7 @@ Id,Entity_1,Entity_2,Property
 6568,秦国鲁国大长公主,唐国公主,sibling
 6569,赵姬,秦庄襄王,spouse
 6570,托马斯·格雷姆,科学和科技皇家书院,workPlace
-6571,让·克洛德·容克,卢森堡,birthPlace
+6571,让-克洛德·容克,卢森堡,birthPlace
 6572,杰梅恩·迪福,伦敦,birthPlace
 6573,赖慕布,费扬果,sibling
 6574,深山静夫,广岛县,birthPlace
@@ -6684,7 +6684,7 @@ Id,Entity_1,Entity_2,Property
 6683,小柴昌俊,大日本帝国,birthPlace
 6684,约翰·惠勒,普林斯顿大学,workPlace
 6685,杨延嗣,杨宗英,child
-6686,热罗姆·佩蒂翁·德·维尔纳夫,厄尔·卢瓦尔省,birthPlace
+6686,热罗姆·佩蒂翁·德·维尔纳夫,厄尔-卢瓦尔省,birthPlace
 6687,袁浚楠,英属香港,birthPlace
 6688,瓦尔达斯·阿达姆库斯,阿尔玛·阿达姆库斯,spouse
 6689,路易十三,玛丽·德·美第奇,parent
@@ -6881,7 +6881,7 @@ Id,Entity_1,Entity_2,Property
 6880,奕譞,奕譓,sibling
 6881,织田信秀,乃夫殿,child
 6882,阿尔贝·费尔,巴黎第十一大学,workPlace
-6883,弗雷德里克九世,梅克伦堡·什未林公国,parent
+6883,弗雷德里克九世,梅克伦堡-什未林公国,parent
 6884,近藤直也,栃木县,birthPlace
 6885,花山英二,栃木县,birthPlace
 6886,赵元僖,荆国大长公主,sibling
@@ -6923,7 +6923,7 @@ Id,Entity_1,Entity_2,Property
 6922,延庆长公主,石敬瑭,sibling
 6923,王令麟,蔡雪卿,spouse
 6924,白文正,魏明春,spouse
-6925,玛丽·泰瑞丝,路易十九,spouse
+6925,玛丽-泰瑞丝,路易十九,spouse
 6926,本并健治,日本,birthPlace
 6927,穆克塔尔·乌尔德·达达赫,法国,deathPlace
 6928,韩无忌,韩厥,parent
@@ -6993,7 +6993,7 @@ Id,Entity_1,Entity_2,Property
 6992,江霞,杜文正,spouse
 6993,李鹏,李小勇,child
 6994,横山贵之,日本,birthPlace
-6995,卡尔·乌斯,伊利诺伊大学厄巴纳·香槟分校,workPlace
+6995,卡尔·乌斯,伊利诺伊大学厄巴纳-香槟分校,workPlace
 6996,见田雅之,宫城县,birthPlace
 6997,蔡少棠,菲律宾,birthPlace
 6998,陆逊,陆抗,child
@@ -7026,7 +7026,7 @@ Id,Entity_1,Entity_2,Property
 7025,皮洛士,伊庇鲁斯的佛提雅,parent
 7026,浅井长政,浅井万寿丸,child
 7027,王坦之,王忱,child
-7028,雅赫摩斯·纳菲尔泰丽,爱赫特波一世,parent
+7028,雅赫摩斯-纳菲尔泰丽,爱赫特波一世,parent
 7029,陈廷骅,陈慧慧,child
 7030,肖恩·巴蒂尔,密歇根州,birthPlace
 7031,鹿野润,泷下毅,spouse
@@ -7153,7 +7153,7 @@ Id,Entity_1,Entity_2,Property
 7152,海斯廷斯·卡穆祖·班达,南非,deathPlace
 7153,马高斯·高美斯·达·阿卢洛,巴西,birthPlace
 7154,林球立,荷兰,birthPlace
-7155,克洛德·科昂·唐努德日,巴黎高等师范学院,workPlace
+7155,克洛德·科昂-唐努德日,巴黎高等师范学院,workPlace
 7156,约翰·B·古迪纳夫,德国,birthPlace
 7157,桓温,桓豁,sibling
 7158,赤都松赞,赤德祖赞,child
@@ -7322,7 +7322,7 @@ Id,Entity_1,Entity_2,Property
 7321,贞圣王后,朝鲜英祖,spouse
 7322,秦二世,秦始皇,parent
 7323,福满,锡宝齐篇古,parent
-7324,卡尔十六世·古斯塔夫,萨克森·科堡·哥达的施比拉公主,parent
+7324,卡尔十六世·古斯塔夫,萨克森-科堡-哥达的施比拉公主,parent
 7325,部百流,马耳他,birthPlace
 7326,陈兆恺,香港,birthPlace
 7327,米兰·兹韦尔,卢布尔雅那,birthPlace
@@ -7404,7 +7404,7 @@ Id,Entity_1,Entity_2,Property
 7403,陈宪宗,明慈皇太妃,parent
 7404,右近德太郎,日本,birthPlace
 7405,佐佐木道誉,斯波氏赖,child
-7406,让·巴蒂斯特·拉马克,巴黎植物园,workPlace
+7406,让-巴蒂斯特·拉马克,巴黎植物园,workPlace
 7407,笠原宗太,日本,birthPlace
 7408,菲利普·安德森,普林斯顿大学,workPlace
 7409,桥本研一,日本,birthPlace
